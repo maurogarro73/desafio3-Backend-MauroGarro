@@ -1,0 +1,101 @@
+[
+  {
+    "id": 0,
+    "title": "Camiseta del Real Madrid",
+    "description": "Camiseta oficial del Real Madrid para la temporada 2023",
+    "price": 49.99,
+    "thumbnail": "image.jpg",
+    "code": "RM123",
+    "stock": 20
+  },
+  {
+    "id": 1,
+    "title": "Camiseta del Barcelona",
+    "description": "Camiseta oficial del Barcelona para la temporada 2023",
+    "price": 49.99,
+    "thumbnail": "image.jpg",
+    "code": "BARCA",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "title": "Camiseta de la Selección de Argentina",
+    "description": "Camiseta oficial de la Selección de Argentina para la Copa América 2023",
+    "price": 39.99,
+    "thumbnail": "image.jpg",
+    "code": "ARG23",
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "title": "Camiseta del Paris Saint-Germain",
+    "description": "Camiseta oficial del Paris Saint-Germain para la temporada 2023",
+    "price": 59.99,
+    "thumbnail": "image.jpg",
+    "code": "PSG23",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "title": "Camiseta del Bayern Munich",
+    "description": "Camiseta oficial del Bayern Munich para la temporada 2023",
+    "price": 54.99,
+    "thumbnail": "image.jpg",
+    "code": "BMUNI",
+    "stock": 18
+  },
+  {
+    "id": 5,
+    "title": "Camiseta del Manchester United",
+    "description": "Camiseta oficial del Manchester United para la temporada 2023",
+    "price": 49.99,
+    "thumbnail": "image.jpg",
+    "code": "UTD23",
+    "stock": 12
+  },
+  {
+    "id": 0,
+    "title": "Camiseta de la Selección de Brasil",
+    "description": "Camiseta oficial de la Selección de Brasil para la Copa América 2023",
+    "price": 39.99,
+    "thumbnail": "image.jpg",
+    "code": "BRA23",
+    "stock": 22
+  },
+  {
+    "id": 6,
+    "title": "Camiseta del Chelsea",
+    "description": "Camiseta oficial del Chelsea para la temporada 2023",
+    "price": 54.99,
+    "thumbnail": "image.jpg",
+    "code": "CHEL1",
+    "stock": 16
+  },
+  {
+    "id": 7,
+    "title": "Camiseta del AC Milan",
+    "description": "Camiseta oficial del AC Milan para la temporada 2023",
+    "price": 49.99,
+    "thumbnail": "image.jpg",
+    "code": "MIL23",
+    "stock": 14
+  },
+  {
+    "id": 8,
+    "title": "Camiseta de la Selección de España",
+    "description": "Camiseta oficial de la Selección de España para la Eurocopa 2024",
+    "price": 39.99,
+    "thumbnail": "image.jpg",
+    "code": "ESP24",
+    "stock": 18
+  },
+  {
+    "id": 9,
+    "title": "Camiseta del Manchester City",
+    "description": "Camiseta oficial del Manchester City para la temporada 2023",
+    "price": 59.99,
+    "thumbnail": "image.jpg",
+    "code": "MAC23",
+    "stock": 20
+  }
+]
