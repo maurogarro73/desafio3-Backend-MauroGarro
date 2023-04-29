@@ -1,4 +1,4 @@
-const fs = require('fs');
+import fs from 'fs';
 
 class ProductManager {
   id = 1;
@@ -143,14 +143,14 @@ const modifyProduct = {
 
 const productManager = new ProductManager('products.json');
 
-productManager
+/* productManager
   .updateProduct(9, modifyProduct)
   .then((result) => {
     console.log(result);
   })
   .catch((error) => {
     console.log(error);
-  });
+  }); */
 /* productManager
   .deleteProduct(2)
   .then((result) => {
@@ -179,4 +179,4 @@ productManager
   .then((result) => console.log(result))
   .catch((error) => console.log(error)); */
 
-export default ProductManager();
+export default ProductManager;
