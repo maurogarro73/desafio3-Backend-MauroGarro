@@ -28,8 +28,11 @@ app.get('/products/:pid', async (req, res) => {
     const id = req.params.pid;
     const product = await container.getProductById(parseInt(id));
 
-    if (product) {
+    if (typeof product === 'object') {
       return res.json(product);
+    }
+    if (typeof product === 'string') {
+      return res.json({ error: 'Product not found' });
     }
   } catch (error) {
     console.log(error);
